@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'helvetica';
+    src: url(../fonts/Helvetica_NTUXwLmxSC.ttf);
+}
+@font-face {
+    font-family: 'neu';
+    src: url(../public/fonts/NeueMachina-Regular_DQCmjH1st.ttf);
+}
+
