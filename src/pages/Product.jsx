@@ -29,7 +29,7 @@ const Products = () => {
   );
 
   return (
-    <div className="min-h-screen mt-15  pt-16 pb-20 px-4 sm:px-10">
+   <div className="min-h-screen mt-16 pt-16 pb-20 px-4 sm:px-10">
       <h1 className="text-4xl sm:text-5xl font-bold text-center mb-10 drop-shadow text-[#00b2ff]">
         Explore Our Prime Products
       </h1>
