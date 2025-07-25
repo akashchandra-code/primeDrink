@@ -11,8 +11,9 @@ const Products = () => {
   const location = useLocation();
 
   useEffect(() => {
+    window.scrollTo(0, 0);
     setProducts(productsData);
-  }, [location.pathname]);
+  }, [location.pathname]);  
 
   const handleAddToCart = (product) => {
     addToCart(product);
